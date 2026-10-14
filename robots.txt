@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://smotrim-filmix.online/sitemap.xml
+Sitemap: https://smotrim-filmix.online/sitemap1.xml

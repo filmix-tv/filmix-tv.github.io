@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smotrim-filmix.online/sitemap.xml
